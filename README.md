@@ -1,7 +1,3 @@
-Certainly! Here's an example README file that explains the codes and includes a Dockerfile:
-
-**README.md:**
-
 # Text Similarity Comparison with spaCy
 
 This repository contains code that demonstrates how to compare the similarity between complaints and recipes using spaCy's similarity model.
