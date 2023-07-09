@@ -1,0 +1,9 @@
+The similarity score between "cat" and "monkey" is 0.4678, indicating that they are similar in terms of them being animals.
+
+The similarity score between "cat" and "banana" is 0.3810, suggesting a lower degree of similarity because a cat dont eat bananas.
+
+The similarity score between "monkey" and "banana" is 0.6046, indicating a higher level of similarity because monkeys love bananas.
+
+Within the sentence "cat monkey banana," the similarity scores between the words reflect their relationships. For example, the similarity between "cat" and "monkey" is 0.4678, and the similarity between "monkey" and "banana" is 0.6046, which implies a higher similarity between "monkey" and "banana" compared to "cat" and "monkey."
+
+Overall, this demonstrates how spaCy's similarity functionality can be used to compare words and sentences, providing insights into their semantic similarities and differences. The results highlight the nuances in the relationships between words and how their meanings can vary based on context.
